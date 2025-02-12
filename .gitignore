@@ -1,1 +1,3 @@
 /logprueba.txt
+*.log 
+/modules/
